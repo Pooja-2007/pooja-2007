@@ -1,3 +1,4 @@
+![logo](https://github.com/Pooja-2007/pooja-2007/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi , I'm Pooja Jain</h1>
 <h3 align="center">Motivated B.Tech Computer Science student with a strong academic foundation and hands-on skills. Seeking to apply expertise in software and web development, problem-solving, and data structure and algorithms in a dynamic, innovative environment. Eager to contribute to technical advancements and organizational goals by delivering efficient, scalable solutions and engaging user experiences.</h3>
 
